@@ -49,7 +49,7 @@ void coutp(unsigned int x) {
         maska = maska >> 1;
     }
 }
-
+/*
 int main()
 {
     ///createFirstMask();
@@ -61,3 +61,4 @@ int main()
     ///last(x);
     return 0;
 }
+*/
